@@ -19,7 +19,10 @@ I’ve written clear descriptions for each file to provide context on what each 
   - [NLP_basis](https://github.com/ChiaChunHung/MystanCodeProjects/tree/main/stanCode_Projects/ds_interview_practice/nlp_basis)
   - [NLP_sentiment_analysis](https://github.com/ChiaChunHung/MystanCodeProjects/tree/main/stanCode_Projects/ds_interview_practice/nlp_sentiment_analysis)
   - [OOP_practice](https://github.com/ChiaChunHung/MystanCodeProjects/tree/main/stanCode_Projects/ds_interview_practice/oop_practice)
-- Other_interesting_projects
+- Other_interesting_Big_projects!!!
+  - [Break_out_game](https://github.com/ChiaChunHung/MystanCodeProjects/tree/main/stanCode_Projects/break_out_game)
+    - [game_setting](https://github.com/ChiaChunHung/MystanCodeProjects/blob/main/stanCode_Projects/break_out_game/extensions_breakoutgraphics.py)
+    - [game_animation](https://github.com/ChiaChunHung/MystanCodeProjects/blob/main/stanCode_Projects/break_out_game/extension_breakout.py)    
   - [Baby_name_popularity_searching_system](https://github.com/ChiaChunHung/MystanCodeProjects/tree/main/stanCode_Projects/name_searching_system) 
   - [Photoshop_functions_simulation](https://github.com/ChiaChunHung/MystanCodeProjects/blob/main/stanCode_Projects/photoshop/stanCodoshop.py)
   - [Animation_by_coding](https://github.com/ChiaChunHung/MystanCodeProjects/tree/main/stanCode_Projects/my_drawing)
